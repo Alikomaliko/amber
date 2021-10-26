@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/amber/assets/js/vendor.min.js" => "1635242898186370","/local/templates/amber/assets/js/plugins.min.js" => "1635242897462538","/local/templates/amber/assets/js/main.js" => "16352428976824",]; ?>
